@@ -1,0 +1,208 @@
+month,category,area
+2019-01,anti-social-behaviour,Surbiton
+2019-01,burglary,Surbiton
+2019-01,criminal-damage-arson,Surbiton
+2019-01,violent-crime,Hatfield
+2019-01,vehicle-crime,Beckton
+2019-01,other-theft,Beckton - Home
+2019-01,violent-crime,Beckton - Home
+2019-01,anti-social-behaviour,Crewe
+2019-01,public-order,Crewe
+2019-01,violent-crime,Crewe
+2019-01,violent-crime,Crewe
+2019-02,vehicle-crime,Surbiton
+2019-02,burglary,Wealdstone
+2019-02,burglary,Wealdstone
+2019-02,burglary,Wealdstone
+2019-02,anti-social-behaviour,Hatfield
+2019-03,other-theft,Hatfield
+2019-03,anti-social-behaviour,Beckton - Home
+2019-03,anti-social-behaviour,Beckton - Home
+2019-03,anti-social-behaviour,Beckton - Home
+2019-03,violent-crime,Beckton - Home
+2019-03,anti-social-behaviour,Mistley
+2019-03,public-order,Mistley
+2019-03,public-order,Mistley
+2019-03,violent-crime,Mistley
+2019-04,violent-crime,Surbiton
+2019-04,criminal-damage-arson,Hatfield
+2019-04,other-theft,Hatfield
+2019-04,violent-crime,Hatfield
+2019-04,burglary,Beckton - Home
+2019-04,anti-social-behaviour,Crewe
+2019-04,other-theft,Crewe
+2019-04,public-order,Crewe
+2019-04,vehicle-crime,Mistley
+2019-05,anti-social-behaviour,Surbiton
+2019-05,violent-crime,Surbiton
+2019-05,other-theft,Hatfield
+2019-05,other-theft,Hatfield
+2019-05,burglary,Beckton
+2019-05,burglary,Beckton - Home
+2019-05,violent-crime,Beckton - Home
+2019-06,anti-social-behaviour,Surbiton
+2019-06,anti-social-behaviour,Hatfield
+2019-06,anti-social-behaviour,Hatfield
+2019-06,violent-crime,Hatfield
+2019-06,anti-social-behaviour,Beckton
+2019-06,burglary,Beckton
+2019-06,criminal-damage-arson,Beckton
+2019-06,anti-social-behaviour,Beckton - Home
+2019-06,violent-crime,Crewe
+2019-07,drugs,Surbiton
+2019-07,criminal-damage-arson,Wealdstone
+2019-07,violent-crime,Wealdstone
+2019-07,anti-social-behaviour,Hatfield
+2019-07,burglary,Hatfield
+2019-07,anti-social-behaviour,Beckton
+2019-07,anti-social-behaviour,Beckton
+2019-07,other-theft,Beckton
+2019-07,anti-social-behaviour,Crewe
+2019-08,anti-social-behaviour,Surbiton
+2019-08,anti-social-behaviour,Surbiton
+2019-08,burglary,Wealdstone
+2019-08,anti-social-behaviour,Hatfield
+2019-08,anti-social-behaviour,Crewe
+2019-08,anti-social-behaviour,Crewe
+2019-08,public-order,Crewe
+2019-09,violent-crime,Surbiton
+2019-09,burglary,Wealdstone
+2019-09,vehicle-crime,Wigston
+2019-09,burglary,Beckton
+2019-09,vehicle-crime,Beckton - Home
+2019-09,violent-crime,Beckton - Home
+2019-09,violent-crime,Beckton - Home
+2019-09,violent-crime,Crewe
+2019-09,violent-crime,Crewe
+2019-09,criminal-damage-arson,Mistley
+2019-10,vehicle-crime,Wealdstone
+2019-10,anti-social-behaviour,Hatfield
+2019-10,violent-crime,Hatfield
+2019-10,violent-crime,Hatfield
+2019-10,anti-social-behaviour,Beckton
+2019-11,criminal-damage-arson,Hatfield
+2019-11,other-theft,Hatfield
+2019-11,violent-crime,Hatfield
+2019-11,anti-social-behaviour,Beckton
+2019-11,anti-social-behaviour,Beckton
+2019-11,criminal-damage-arson,Beckton
+2019-11,public-order,Beckton
+2019-12,other-theft,Surbiton
+2019-12,vehicle-crime,Surbiton
+2019-12,robbery,Wealdstone
+2019-12,anti-social-behaviour,Beckton
+2019-12,burglary,Beckton
+2019-12,violent-crime,Mistley
+2020-01,criminal-damage-arson,Surbiton
+2020-01,vehicle-crime,Wealdstone
+2020-01,violent-crime,Hatfield
+2020-01,burglary,Beckton - Home
+2020-01,burglary,Beckton - Home
+2020-01,anti-social-behaviour,Crewe
+2020-02,criminal-damage-arson,Surbiton
+2020-02,anti-social-behaviour,Hatfield
+2020-02,anti-social-behaviour,Hatfield
+2020-02,anti-social-behaviour,Hatfield
+2020-02,public-order,Wigston
+2020-02,violent-crime,Beckton
+2020-02,anti-social-behaviour,Crewe
+2020-03,vehicle-crime,Surbiton
+2020-03,vehicle-crime,Wealdstone
+2020-03,violent-crime,Hatfield
+2020-03,violent-crime,Beckton
+2020-03,anti-social-behaviour,Beckton - Home
+2020-03,anti-social-behaviour,Beckton - Home
+2020-04,violent-crime,Surbiton
+2020-04,anti-social-behaviour,Hatfield
+2020-04,anti-social-behaviour,Hatfield
+2020-04,burglary,Wigston
+2020-04,anti-social-behaviour,Beckton
+2020-04,anti-social-behaviour,Beckton
+2020-04,anti-social-behaviour,Beckton
+2020-04,anti-social-behaviour,Beckton
+2020-04,burglary,Beckton
+2020-04,criminal-damage-arson,Beckton
+2020-04,anti-social-behaviour,Beckton - Home
+2020-04,anti-social-behaviour,Beckton - Home
+2020-04,anti-social-behaviour,Beckton - Home
+2020-04,anti-social-behaviour,Beckton - Home
+2020-04,anti-social-behaviour,Beckton - Home
+2020-04,anti-social-behaviour,Beckton - Home
+2020-04,anti-social-behaviour,Beckton - Home
+2020-04,anti-social-behaviour,Beckton - Home
+2020-04,anti-social-behaviour,Beckton - Home
+2020-04,anti-social-behaviour,Beckton - Home
+2020-04,anti-social-behaviour,Beckton - Home
+2020-04,anti-social-behaviour,Beckton - Home
+2020-04,anti-social-behaviour,Crewe
+2020-04,anti-social-behaviour,Crewe
+2020-05,anti-social-behaviour,Hatfield
+2020-05,criminal-damage-arson,Hatfield
+2020-05,anti-social-behaviour,Beckton
+2020-05,anti-social-behaviour,Beckton
+2020-05,vehicle-crime,Beckton
+2020-05,anti-social-behaviour,Beckton - Home
+2020-05,anti-social-behaviour,Beckton - Home
+2020-05,anti-social-behaviour,Beckton - Home
+2020-05,anti-social-behaviour,Beckton - Home
+2020-05,anti-social-behaviour,Beckton - Home
+2020-05,anti-social-behaviour,Beckton - Home
+2020-05,anti-social-behaviour,Beckton - Home
+2020-05,public-order,Crewe
+2020-05,anti-social-behaviour,Mistley
+2020-06,criminal-damage-arson,Surbiton
+2020-06,drugs,Surbiton
+2020-06,public-order,Wealdstone
+2020-06,vehicle-crime,Hatfield
+2020-06,violent-crime,Hatfield
+2020-06,anti-social-behaviour,Wigston
+2020-06,anti-social-behaviour,Beckton
+2020-06,anti-social-behaviour,Beckton - Home
+2020-06,anti-social-behaviour,Beckton - Home
+2020-06,vehicle-crime,Crewe
+2020-07,anti-social-behaviour,Hatfield
+2020-07,anti-social-behaviour,Hatfield
+2020-07,anti-social-behaviour,Hatfield
+2020-07,anti-social-behaviour,Hatfield
+2020-07,anti-social-behaviour,Hatfield
+2020-07,anti-social-behaviour,Hatfield
+2020-07,anti-social-behaviour,Hatfield
+2020-07,criminal-damage-arson,Hatfield
+2020-07,other-theft,Hatfield
+2020-07,anti-social-behaviour,Beckton
+2020-07,anti-social-behaviour,Beckton
+2020-07,public-order,Crewe
+2020-07,violent-crime,Crewe
+2020-07,violent-crime,Crewe
+2020-08,anti-social-behaviour,Hatfield
+2020-08,violent-crime,Beckton
+2020-08,anti-social-behaviour,Beckton - Home
+2020-08,criminal-damage-arson,Crewe
+2020-09,violent-crime,Surbiton
+2020-09,other-crime,Wealdstone
+2020-09,anti-social-behaviour,Hatfield
+2020-09,anti-social-behaviour,Hatfield
+2020-09,other-theft,Hatfield
+2020-09,anti-social-behaviour,Wigston
+2020-09,anti-social-behaviour,Beckton
+2020-09,anti-social-behaviour,Beckton
+2020-09,anti-social-behaviour,Beckton
+2020-09,public-order,Beckton
+2020-09,vehicle-crime,Beckton
+2020-09,anti-social-behaviour,Crewe
+2020-10,anti-social-behaviour,Beckton
+2020-10,anti-social-behaviour,Beckton
+2020-10,anti-social-behaviour,Beckton
+2020-10,anti-social-behaviour,Beckton
+2020-10,anti-social-behaviour,Beckton - Home
+2020-10,criminal-damage-arson,Crewe
+2020-11,vehicle-crime,Surbiton
+2020-11,burglary,Wealdstone
+2020-11,violent-crime,Hatfield
+2020-11,anti-social-behaviour,Beckton
+2020-11,public-order,Beckton
+2020-11,anti-social-behaviour,Beckton - Home
+2020-11,burglary,Beckton - Home
+2020-11,anti-social-behaviour,Crewe
+2020-12,anti-social-behaviour,Beckton - Home
+2021-01,violent-crime,Beckton - Home
