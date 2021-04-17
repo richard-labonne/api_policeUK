@@ -50,7 +50,8 @@ while True:
                 else:
                     print("no data for {} in {}".format(api_locations.get(api_location),api_date))
     
-    maindf.to_csv('police_api_output_'+str(time_now.strftime('%Y-%m-%d'))+'.csv', encoding='utf-8',index=False, header=True, mode="w")
+    maindf.to_csv(r'/media/ubuntu/524A9ACC4A9AABEB/Fileshare - Pi Laptop/DB.PythonDatasets/api_policeUK/police_api_output_'+str(time_now.strftime('%Y-%m-%d'))+'.csv', \
+                  encoding='utf-8',index=False, header=True, mode="w")
     print(maindf)
     del maindf
     
