@@ -26,7 +26,6 @@ while True:
     for j in range(1,time_now.month):
         api_dates.append( str(time_now.year)+'-'+str(j) )
     
-    #https://data.police.uk/api/crimes-at-location?date=2017-02&location_id=884227
     base_url = 'https://data.police.uk/api/crimes-at-location'
 
     for api_date in api_dates:
